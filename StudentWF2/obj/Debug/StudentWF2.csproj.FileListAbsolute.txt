@@ -1,0 +1,13 @@
+C:\Users\saminray\Desktop\cs\StudentWF2\StudentWF2\bin\Debug\StudentWF2.exe.config
+C:\Users\saminray\Desktop\cs\StudentWF2\StudentWF2\bin\Debug\StudentWF2.exe
+C:\Users\saminray\Desktop\cs\StudentWF2\StudentWF2\bin\Debug\StudentWF2.pdb
+C:\Users\saminray\Desktop\cs\StudentWF2\StudentWF2\obj\Debug\StudentWF2.csproj.AssemblyReference.cache
+C:\Users\saminray\Desktop\cs\StudentWF2\StudentWF2\obj\Debug\StudentWF2.csproj.SuggestedBindingRedirects.cache
+C:\Users\saminray\Desktop\cs\StudentWF2\StudentWF2\obj\Debug\StudentWF2.Form1.resources
+C:\Users\saminray\Desktop\cs\StudentWF2\StudentWF2\obj\Debug\StudentWF2.Form2.resources
+C:\Users\saminray\Desktop\cs\StudentWF2\StudentWF2\obj\Debug\StudentWF2.Form3.resources
+C:\Users\saminray\Desktop\cs\StudentWF2\StudentWF2\obj\Debug\StudentWF2.Properties.Resources.resources
+C:\Users\saminray\Desktop\cs\StudentWF2\StudentWF2\obj\Debug\StudentWF2.csproj.GenerateResource.cache
+C:\Users\saminray\Desktop\cs\StudentWF2\StudentWF2\obj\Debug\StudentWF2.csproj.CoreCompileInputs.cache
+C:\Users\saminray\Desktop\cs\StudentWF2\StudentWF2\obj\Debug\StudentWF2.exe
+C:\Users\saminray\Desktop\cs\StudentWF2\StudentWF2\obj\Debug\StudentWF2.pdb
